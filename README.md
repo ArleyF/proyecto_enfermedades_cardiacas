@@ -20,7 +20,10 @@ df = pd.read_csv(url)
 ~~~
 
 ### 1. Cambios en el dataset:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/01_cambios_en_el_dataset.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/01_modificacion_del_dataset.ipynb)
 
-### 2. Preprocesamiento de datos
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/02_preprocesado.ipynb)
+### 2. Exploración de los datos
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/02_exploracion_de_datos.ipynb)
+
+### 3. Preprocesado
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/03_limpieza_de_datos.ipynb)
