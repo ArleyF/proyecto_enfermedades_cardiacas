@@ -18,3 +18,8 @@ import pandas as pd
 url = "https://raw.githubusercontent.com/ArleyF/proyecto_enfermedades_cardiacas/master/dataset/heart_2020_modified.csv"
 df = pd.read_csv(url)
 ~~~
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/02%20-%20preprocesado.ipynb)
+
+- [Open in Colab](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/02%20-%20preprocesado.ipynb)
+
