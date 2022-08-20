@@ -20,10 +20,16 @@ df = pd.read_csv(url)
 ~~~
 
 ### 1. Cambios en el dataset:
+Se eliminan entre el 5% al 9% de los datos de 4 columnas:
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/01_modificacion_del_dataset.ipynb)
 
 ### 2. Exploración de los datos
+Se analiza el comportamiento de los datos antes de empezar con la limpieza:
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/02_exploracion_de_datos.ipynb)
 
-### 3. Preprocesado
+### 3. Limpieza de datos
+Se realiza la limpieza de los datos (Tranformación y sustitución de datos faltantes):
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/03_limpieza_de_datos.ipynb)
