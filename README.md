@@ -33,3 +33,8 @@ Se analiza el comportamiento de los datos antes de empezar con la limpieza:
 Se realiza la limpieza de los datos (Tranformación y sustitución de datos faltantes):
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/03_limpieza_de_datos.ipynb)
+
+### 4. Creación de modelos
+Se realizan algunos modelos:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/04_creacion_de_modelos.ipynb)
