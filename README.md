@@ -40,4 +40,4 @@ Se realizan algunos modelos:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/04_creacion_de_modelos.ipynb)
 
 ## Video: Entrega 2 
-[![Alt text](https://img.youtube.com/vi/zr4gbkODKkM/0.jpg)](https://youtu.be/zr4gbkODKkM)
+[![Alt text](https://img.youtube.com/vi/M3kGbQyYC_8/0.jpg)](https://youtu.be/M3kGbQyYC_8)
