@@ -34,7 +34,7 @@ Se realiza la limpieza de los datos (Tranformación y sustitución de datos falt
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/03_limpieza_de_datos.ipynb)
 
-### 4. Creación de modelos
+### 4. Modelos supervisados
 Se realizan algunos modelos:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/04_modelos_supervisados.ipynb)
