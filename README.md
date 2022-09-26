@@ -35,7 +35,7 @@ Se realiza la limpieza de los datos (Tranformación y sustitución de datos falt
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/03_limpieza_de_datos.ipynb)
 
 ### 4. Modelos supervisados
-Se realizan algunos modelos:
+Se realizan 7 modelos: Regresión logística, vecinos más cercanos, árbol de decisión, redes neuronales, máquina de vectores de soporte, bosques aleatorios y Naive-Bayes
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/04_modelos_supervisados.ipynb)
 
