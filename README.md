@@ -39,5 +39,10 @@ Se realizan 7 modelos: Regresión logística, vecinos más cercanos, árbol de d
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/04_modelos_supervisados.ipynb)
 
-## Video: Entrega 2 
+### 5. Modelos no supervisados
+Se utiliza PCA y Clustering
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/05_modelos_no_supervisados.ipynb)
+
+## Video: Entrega Final 
 [![Alt text](https://img.youtube.com/vi/M3kGbQyYC_8/0.jpg)](https://youtu.be/M3kGbQyYC_8)
