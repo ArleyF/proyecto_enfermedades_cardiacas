@@ -44,5 +44,4 @@ Se utiliza PCA y Clustering
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArleyF/proyecto_enfermedades_cardiacas/blob/master/05_modelos_no_supervisados.ipynb)
 
-## Video: Entrega Final 
-[![Alt text](https://img.youtube.com/vi/_-d57pqgqpU/0.jpg)](https://youtu.be/_-d57pqgqpU)
+
